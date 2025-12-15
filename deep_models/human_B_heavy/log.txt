@@ -1,5 +1,5 @@
 Z =0.64796275
-norm_productive =0.1972726650924565
+norm_productive =0.19727266509245653
 min_energy_clip =-5
 max_energy_clip =10
 likelihood_train,likelihood_test
